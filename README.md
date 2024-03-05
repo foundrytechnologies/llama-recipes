@@ -3,7 +3,7 @@ This is adapted from [llama-recipes](https://github.com/facebookresearch/llama-r
 Here are instructions for installation with python3.10
 ```sh
 git clone https://github.com/facebookresearch/llama
-git clone https://github.com/facebookresearch/llama-recipes
+git clone https://github.com/foundrytechnologies/llama-recipes
 cd llama-recipes
 pip install -U pip setuptools
 pip install --extra-index-url https://download.pytorch.org/whl/test/cu118 -e .
