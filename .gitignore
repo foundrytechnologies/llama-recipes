@@ -11,6 +11,7 @@ profile
 all_profile
 out*
 meta*
-run.sh
 inf_probe.sh
 bs_probe.sh
+temp*
+run/temp*
